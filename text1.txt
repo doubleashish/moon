@@ -1,3 +1,6 @@
-hello
-hello2
-hello3
+Dont make big commits (no need to end to end)
+many commits
+every commit should be diff logic
+good commit message
+present tense in commits
+
